@@ -1,2 +1,2 @@
-# library
+# library GMC
 repository
